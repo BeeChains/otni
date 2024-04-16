@@ -2,3 +2,8 @@
 Home to OTNI/ , Own The New Internet $OTNI
 
 ## $OTNI
+
+Introducing the $OTNI token, a revolutionary BRC-20 asset that epitomizes the spirit of sovereign ownership and robust security in the digital age. As the cornerstone of the "Own The New Internet" initiative, powered by the Handshake top-level domain, $OTNI is designed to redefine internet stewardship. This token is not just a digital asset; it's a declaration of independence for internet users who wish to claim their rightful place in cyberspace.
+
+
+The $OTNI token is more than a currency; it's a commitment to building a decentralized, user-owned network that embodies transparency and trust. It empowers users to truly "Own The New Internet," fostering an environment where freedom, privacy, and innovation thrive. For pioneers and visionaries looking to invest in the future of the internet, $OTNI offers a unique opportunity to be part of a secure, uncensored, and sovereign digital frontier.
